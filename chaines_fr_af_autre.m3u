@@ -2987,6 +2987,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",??DELUXE MUSIC? Lounge Extra ??????
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+
+
 #EXTINF:-1 tvg-id="2ATV.sn" tvg-logo="https://i.imgur.com/JouRiqm.png" group-title="News",2A TV (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCh57LRfcD3Z4TK6WrzL39GA.m3u8
 #EXTINF:-1 tvg-id="2STV.sn" tvg-logo="https://i.imgur.com/WByVBZf.png" group-title="Undefined",2S TV (1080p) [Not 24/7]
@@ -3348,6 +3350,8 @@ https://ythls.armelin.one/channel/UCxXEr1iy6EJssFRI9uYmiuw.m3u8
 https://ythls.armelin.one/channel/UCn7CnwFDT3wXBE3xqQm5riQ.m3u8
 #EXTINF:-1 tvg-id="YakaarTV.sn" tvg-logo="https://i.ibb.co/ftjTryD/yakaar-logo-single.jpg" group-title="Culture",Yakaar TV (1080p)
 https://strhls.streamakaci.tv/yakaartv/yakaartv-multi/playlist.m3u8
+
+
 #EXTINF:-1,BEIN_Sports_News
 http://server.sibfungold.info:8080/gazi2po2/@sq1zpg7B9Rpo2@/2296
 #EXTINF:-1,AR_BEIN_SPORTS_MAX_1_AF
