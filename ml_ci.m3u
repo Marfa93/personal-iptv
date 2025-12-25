@@ -69,3 +69,5 @@ http://69.64.57.208/albayanetv/index.m3u8
 https://stream.berosat.live:19360/tv-capitale-tream/tv-capitale-tream.m3u8
 #EXTINF:-1 tvg-id="AnkaTele.ml@SD" tvg-logo="https://cdn.technettv.com/channel/29940/logo_256.png" group-title="General",Anka Tele
 https://helga.iptv2022.com/ANKA_TELE/index.m3u8
+#EXTINF:-1 tvg-id="RTMali.ml@SD" tvg-logo="https://cdn.technettv.com/channel/28106/logo_256_1726495890.jpg" group-title="General",RT-Mali
+https://helga.iptv2022.com/RT-MALI/index.m3u8
